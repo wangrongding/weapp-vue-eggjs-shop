@@ -1,8 +1,6 @@
-# weapp-vue-eggjs-shop-demo
+# weapp-vue-eggjs-shop
 
 **适用于日用品、干货等商城，pc管理端 + 微信小程序 + 后端服务**
-
-**您的 `星星` :star::star: 和 `建议` :facepunch::facepunch: 是我的动力 :kissing_heart::kissing_heart::kissing_heart:**
 
 ## 技术栈
 
